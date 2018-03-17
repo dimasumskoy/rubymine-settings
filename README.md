@@ -1,1 +1,1 @@
-# rubymine-settings 17.03.18
+rubymine-settings 17.03.18
