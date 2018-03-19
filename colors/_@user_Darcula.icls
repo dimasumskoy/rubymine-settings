@@ -4,7 +4,7 @@
     <property name="description">Brighter font</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2018-03-14T13:35:30</property>
+    <property name="modified">2018-03-19T12:09:30</property>
     <property name="originalScheme">Darcula</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -23,6 +23,12 @@
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="d2dbe1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="9d5acd" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -73,7 +79,7 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="ff5444" />
+        <option name="FOREGROUND" value="ff3f32" />
       </value>
     </option>
     <option name="RUBY_IDENTIFIER">
@@ -91,14 +97,20 @@
         <option name="FOREGROUND" value="f5932d" />
       </value>
     </option>
+    <option name="RUBY_PARAMETER_ID">
+      <value>
+        <option name="FOREGROUND" value="b363e1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="RUBY_SPECIFIC_CALL">
       <value>
-        <option name="FOREGROUND" value="ff503f" />
+        <option name="FOREGROUND" value="ff2a51" />
       </value>
     </option>
     <option name="RUBY_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="519cd7" />
+        <option name="FOREGROUND" value="3291eb" />
       </value>
     </option>
   </attributes>
