@@ -1342,6 +1342,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.0/ext" />
       </SOURCES>
     </library>
+    <library name="bootsnap (v1.2.1, RVM: ruby-2.4.2 [obruchalka]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="bootstrap (v4.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-4.0.0/lib" />
@@ -8032,6 +8044,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.0.5, RVM: ruby-2.4.2 [obruchalka]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.5/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.5/bin" />
       </SOURCES>
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.3.3) [gem]">
