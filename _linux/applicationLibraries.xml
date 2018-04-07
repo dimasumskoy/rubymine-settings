@@ -72,6 +72,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actioncable-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actioncable-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actioncable-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.1.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/actionmailer-5.1.2/lib" />
@@ -134,6 +142,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionmailer-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actionmailer-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actionmailer-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v5.1.2, RVM: ruby-2.3.3) [gem]">
@@ -200,6 +216,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionpack-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actionpack-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actionpack-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v5.1.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/actionview-5.1.2/lib" />
@@ -262,6 +286,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionview-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actionview-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/actionview-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="active_model_serializers (v0.10.6, RVM: ruby-2.3.3) [gem]">
@@ -396,6 +428,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activejob-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activejob-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activejob-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.1.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/activemodel-5.1.2/lib" />
@@ -458,6 +498,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activemodel-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activemodel-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activemodel-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="activemodel-serializers-xml (v1.0.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -548,6 +596,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activerecord-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activerecord-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activerecord-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.1.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/activesupport-5.1.2/lib" />
@@ -610,6 +666,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activesupport-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activesupport-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/activesupport-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.1, RVM: ruby-2.3.3) [gem]">
@@ -932,6 +996,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-8.2.0/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-8.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v8.2.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.2.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.2.0/vendor" />
       </SOURCES>
     </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -1420,6 +1494,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/bootstrap-sass-3.3.7/lib" />
       </SOURCES>
     </library>
+    <library name="bootstrap-sass (v3.3.7, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-sass-3.3.7/tasks" />
+      </SOURCES>
+    </library>
     <library name="bootstrap_form (v2.7.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/bootstrap_form-2.7.0/lib" />
@@ -1732,6 +1820,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.1/exe" />
+      </SOURCES>
+    </library>
+    <library name="byebug (v10.0.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/exe" />
       </SOURCES>
     </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.3.3) [gem]">
@@ -2226,6 +2328,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-2.18.0/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.18.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-2.18.0/.yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-2.18.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-2.18.0/.yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-2.18.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara-email (v2.5.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/capybara-email-2.5.0/lib" />
@@ -2328,6 +2440,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/capybara-webkit-1.15.0/templates" />
       </SOURCES>
     </library>
+    <library name="capybara-webkit (v1.15.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/src" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/src" />
+      </SOURCES>
+    </library>
     <library name="carrierwave (v1.1.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/carrierwave-1.1.0/lib" />
@@ -2426,6 +2556,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/childprocess-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="childprocess (v0.9.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/childprocess-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/childprocess-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="chromedriver-helper (v1.1.0, RVM: ruby-2.3.3) [gem]">
@@ -3158,6 +3296,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/devise-4.4.3/bin" />
       </SOURCES>
     </library>
+    <library name="devise (v4.4.3, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/devise-4.4.3/app" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.0.0, RVM: ruby-2.3.3 [global]) [gem]">
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.3.3/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
@@ -3466,6 +3622,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-1.0.2/bin" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.2.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.2.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.2.1/bin" />
+      </SOURCES>
+    </library>
     <library name="dotenv-deployment (v0.3.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/dotenv-deployment-0.3.0/lib" />
@@ -3598,6 +3764,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/erubi-1.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="erubi (v1.7.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/erubi-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/erubi-1.7.1/lib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.0.9.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -4184,6 +4358,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.23/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.23/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.23/samples" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.23, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.23" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.23/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.23" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.23/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.23/lib" />
       </SOURCES>
     </library>
     <library name="fiddle (v1.0.0, RVM: ruby-2.5.0 [global]) [gem]">
@@ -5040,6 +5228,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-0.9.5/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-0.9.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="ice_nine (v0.11.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -6470,6 +6668,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/loofah-2.2.2/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.2.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/loofah-2.2.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/loofah-2.2.2/benchmark" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.12, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/lumberjack-1.0.12/lib" />
@@ -7022,6 +7230,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.8.5, RVM: ruby-2.3.3 [global]) [gem]">
@@ -7616,6 +7832,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.0/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.3.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/ext" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/nokogiri-1.8.0/suppressions" />
@@ -7752,6 +7982,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.2/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/tasks" />
       </SOURCES>
     </library>
     <library name="notiffany (v0.1.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -8126,6 +8376,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-0.21.0/ext" />
+      </SOURCES>
+    </library>
+    <library name="pg (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="poltergeist (v1.16.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -8644,6 +8906,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/public_suffix-3.0.2/bin" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/public_suffix-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/public_suffix-3.0.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/public_suffix-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/public_suffix-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/public_suffix-3.0.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/public_suffix-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.10.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/puma-3.10.0/tools" />
@@ -8688,6 +8962,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.0/tools" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.11.3, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/bin" />
       </SOURCES>
     </library>
     <library name="puma (v3.8.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -8866,6 +9156,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.4/bin" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.4, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/contrib" />
+      </SOURCES>
+    </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/rack-accept-0.4.5/lib" />
@@ -9042,6 +9346,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-test-0.8.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-test-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-test-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails (v5.1.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rails-5.1.2" />
@@ -9104,6 +9416,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rails-5.1.5" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rails-5.1.6" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rails-5.1.6" />
       </SOURCES>
     </library>
     <library name="rails-controller-testing (v1.0.2, RVM: ruby-2.3.3) [gem]">
@@ -9226,6 +9546,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rails-html-sanitizer-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rails-html-sanitizer-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rails-html-sanitizer-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-i18n (v5.0.4, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/rails-i18n-5.0.4/lib" />
@@ -9324,6 +9652,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.5/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.1.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/railties-5.1.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/railties-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/railties-5.1.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/railties-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.2.2, RVM: ruby-2.3.3) [gem]">
@@ -9590,6 +9928,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rake-12.3.1/bin" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rake-12.3.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rake-12.3.1/exe" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.10.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.2" />
@@ -9672,6 +10022,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/ext" />
+      </SOURCES>
+    </library>
+    <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.10, RVM: ruby-2.3.3) [gem]">
@@ -10176,6 +10540,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/request_store-1.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="request_store (v1.4.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/request_store-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/request_store-1.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="responders (v2.4.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/responders-2.4.0/lib" />
@@ -10424,6 +10796,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-core-3.7.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-core-3.7.1/exe" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.7.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-core-3.7.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-core-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-core-3.7.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-core-3.7.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.6.0, RVM: ruby-2.3.3) [gem]">
@@ -10682,6 +11064,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-support-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.7.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-support-3.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-support-3.7.1/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.49.1, RVM: ruby-2.3.3) [gem]">
@@ -11214,6 +11604,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.6/extra" />
       </SOURCES>
     </library>
+    <library name="sass (v3.5.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/bin" />
+      </SOURCES>
+    </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/sass-listen-4.0.0/lib" />
@@ -11360,6 +11764,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/select2-rails-4.0.3/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/select2-rails-4.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.11.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/selenium-webdriver-3.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/selenium-webdriver-3.11.0/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.3.3) [gem]">
@@ -13054,6 +13466,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="uber (v0.1.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/uber-0.1.0/lib" />
@@ -13148,6 +13568,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/uglifier-4.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.8, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/uglifier-4.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/uglifier-4.1.8/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
