@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="GotoLine" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+</keymap>
