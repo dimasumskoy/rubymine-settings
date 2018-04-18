@@ -1158,6 +1158,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.2.0/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v8.3.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/autoprefixer-rails-8.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/autoprefixer-rails-8.3.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/autoprefixer-rails-8.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/autoprefixer-rails-8.3.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/awesome_print-1.8.0/lib" />
@@ -1676,6 +1686,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-4.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-4.0.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bootstrap-4.0.0/assets" />
+      </SOURCES>
+    </library>
+    <library name="bootstrap (v4.1.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootstrap-4.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootstrap-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootstrap-4.1.0/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootstrap-4.1.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootstrap-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootstrap-4.1.0/assets" />
       </SOURCES>
     </library>
     <library name="bootstrap-datepicker-rails (v1.7.1.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
