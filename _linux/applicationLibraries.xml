@@ -5714,6 +5714,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-active_model_serializers-1.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="grape-active_model_serializers (v1.5.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-active_model_serializers-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-active_model_serializers-1.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="grape-knock (v0.2.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-knock-0.2.0/bin" />
@@ -5722,6 +5730,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-knock-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-knock-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="grape-knock (v0.2.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-knock-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-knock-0.2.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-knock-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-knock-0.2.0/bin" />
       </SOURCES>
     </library>
     <library name="grape-route-helpers (v2.1.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -5766,6 +5784,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-swagger-0.27.3/example" />
       </SOURCES>
     </library>
+    <library name="grape-swagger (v0.28.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-0.28.0/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-0.28.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-0.28.0/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-0.28.0/lib" />
+      </SOURCES>
+    </library>
     <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-swagger-rails-0.3.0/lib" />
@@ -5778,12 +5806,32 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-swagger-rails-0.3.0/config" />
       </SOURCES>
     </library>
+    <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-rails-0.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-rails-0.3.0/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-rails-0.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-rails-0.3.0/app" />
+      </SOURCES>
+    </library>
     <library name="grape_on_rails_routes (v0.3.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape_on_rails_routes-0.3.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape_on_rails_routes-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="grape_on_rails_routes (v0.3.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape_on_rails_routes-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape_on_rails_routes-0.3.2/lib" />
       </SOURCES>
     </library>
     <library name="guard (v2.14.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -7116,6 +7164,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/jwt-1.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v1.5.6, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jwt-1.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jwt-1.5.6/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v1.0.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/kaminari-1.0.1/misc" />
@@ -7428,6 +7484,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/knock-2.1.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/knock-2.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/knock-2.1.1/app" />
+      </SOURCES>
+    </library>
+    <library name="knock (v2.1.1, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/config" />
       </SOURCES>
     </library>
     <library name="konoplev_hello (v0.1.0@90a0dd, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -14902,6 +14970,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/state_machines-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="state_machines (v0.5.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/state_machines-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/state_machines-0.5.0/lib" />
       </SOURCES>
     </library>
     <library name="state_machines-activemodel (v0.5.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">

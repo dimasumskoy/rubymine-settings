@@ -3,8 +3,10 @@
     <extensionMap>
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="new.html.slim" type="PLAIN_TEXT" />
       <mapping pattern="test_data" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="Slim" />
       <mapping ext="sample" type="YAML" />
     </extensionMap>
   </component>
