@@ -3512,6 +3512,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.4, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/crass-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/crass-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="daemons (v1.2.4, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/daemons-1.2.4/lib" />
@@ -6222,6 +6230,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/i18n-0.9.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.9.5, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/i18n-0.9.5/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/i18n-0.9.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/i18n-0.9.5/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/i18n-0.9.5/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.9.5, RVM: ruby-2.4.2 [obruchalka]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-0.9.5/gemfiles" />
@@ -7884,6 +7902,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/loofah-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.2.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/loofah-2.2.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/loofah-2.2.2/benchmark" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.2.2, RVM: ruby-2.4.2 [obruchalka]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/loofah-2.2.2/lib" />
@@ -8552,6 +8580,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/minitest-5.11.3/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.11.3, RVM: ruby-2.4.2 [obruchalka]) [gem]">
@@ -9414,6 +9450,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.1/patches" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.4.2 [obruchalka]) [gem]">
@@ -10804,6 +10860,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.4/contrib" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.5, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/rack-accept-0.4.5/lib" />
@@ -10932,6 +11002,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/rack-proxy-0.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.4, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-proxy-0.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-proxy-0.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-proxy (v0.6.4, RVM: ruby-2.4.2 [obruchalka]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-proxy-0.6.4/lib" />
@@ -11010,6 +11088,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-test-0.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v1.0.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-test-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-test-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -11234,6 +11320,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rails-html-sanitizer-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rails-html-sanitizer-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.4.2 [obruchalka]) [gem]">
@@ -11666,6 +11760,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/rake-12.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/rake-12.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/rake-12.3.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.1, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rake-12.3.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rake-12.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rake-12.3.1/exe" />
       </SOURCES>
     </library>
     <library name="rake (v12.3.1, RVM: ruby-2.4.2 [obruchalka]) [gem]">
@@ -15800,6 +15906,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/tzinfo-1.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.5, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.5, RVM: ruby-2.4.2 [obruchalka]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/tzinfo-1.2.5/lib" />
@@ -16272,6 +16386,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/webpacker-3.3.1/package" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/webpacker-3.3.1/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/webpacker-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.5.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="webpacker-react (v0.3.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
