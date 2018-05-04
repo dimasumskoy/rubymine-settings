@@ -16340,18 +16340,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/webpacker-3.0.2/exe" />
       </SOURCES>
     </library>
-    <library name="webpacker (v3.0.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.0.2/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.0.2/package" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.0.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.0.2/exe" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.0.2/package" />
-      </SOURCES>
-    </library>
     <library name="webpacker (v3.0.2, RVM: ruby-2.4.2 [obruchalka]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/webpacker-3.0.2/package" />
@@ -16386,18 +16374,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/webpacker-3.3.1/package" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/webpacker-3.3.1/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/webpacker-3.3.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="webpacker (v3.5.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/package" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/package" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/webpacker-3.5.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="webpacker-react (v0.3.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
