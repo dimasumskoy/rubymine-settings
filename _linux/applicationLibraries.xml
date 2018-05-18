@@ -4326,6 +4326,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/dotenv-2.4.0/bin" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.4.0, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-2.4.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-2.4.0/bin" />
+      </SOURCES>
+    </library>
     <library name="dotenv-deployment (v0.3.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/dotenv-deployment-0.3.0/lib" />
@@ -4348,6 +4358,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/dotenv-rails-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv-rails (v2.4.0, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-rails-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-rails-2.4.0/lib" />
       </SOURCES>
     </library>
     <library name="draper (v3.0.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -5766,6 +5784,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-active_model_serializers-1.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="grape-active_model_serializers (v1.5.2, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-active_model_serializers-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-active_model_serializers-1.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="grape-knock (v0.2.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-knock-0.2.0/bin" />
@@ -5784,6 +5810,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-knock-0.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-knock-0.2.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="grape-knock (v0.2.0, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-knock-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-knock-0.2.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-knock-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-knock-0.2.0/bin" />
       </SOURCES>
     </library>
     <library name="grape-route-helpers (v2.1.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -5838,6 +5874,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-0.28.0/lib" />
       </SOURCES>
     </library>
+    <library name="grape-swagger (v0.28.0, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-0.28.0/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-0.28.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-0.28.0/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-0.28.0/lib" />
+      </SOURCES>
+    </library>
     <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape-swagger-rails-0.3.0/lib" />
@@ -5862,6 +5908,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape-swagger-rails-0.3.0/app" />
       </SOURCES>
     </library>
+    <library name="grape-swagger-rails (v0.3.0, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-rails-0.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-rails-0.3.0/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-rails-0.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-rails-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape-swagger-rails-0.3.0/app" />
+      </SOURCES>
+    </library>
     <library name="grape_on_rails_routes (v0.3.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/grape_on_rails_routes-0.3.2/lib" />
@@ -5876,6 +5934,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/grape_on_rails_routes-0.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="grape_on_rails_routes (v0.3.2, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape_on_rails_routes-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/grape_on_rails_routes-0.3.2/lib" />
       </SOURCES>
     </library>
     <library name="guard (v2.14.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -7226,6 +7292,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jwt-1.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v1.5.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/jwt-1.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/jwt-1.5.6/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v1.0.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/kaminari-1.0.1/misc" />
@@ -7550,6 +7624,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/knock-2.1.1/config" />
+      </SOURCES>
+    </library>
+    <library name="knock (v2.1.1, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/knock-2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/knock-2.1.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/knock-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/knock-2.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/knock-2.1.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/knock-2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="konoplev_hello (v0.1.0@90a0dd, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -11418,6 +11504,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rails-i18n-5.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rails-i18n-5.1.1/rails" />
+      </SOURCES>
+    </library>
+    <library name="rails-i18n (v5.1.1, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/rails-i18n-5.1.1/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/rails-i18n-5.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/rails-i18n-5.1.1/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/rails-i18n-5.1.1/lib" />
       </SOURCES>
     </library>
     <library name="railties (v5.1.2, RVM: ruby-2.3.3) [gem]">
