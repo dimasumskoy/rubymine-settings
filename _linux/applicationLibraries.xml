@@ -1178,6 +1178,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/autoprefixer-rails-8.3.0/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v8.5.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.5.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.5.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-8.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/awesome_print-1.8.0/lib" />
@@ -1364,6 +1374,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.12, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/ext" />
       </SOURCES>
     </library>
     <library name="better_errors (v2.3.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -3530,6 +3552,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/crass-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.4, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/crass-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/crass-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="daemons (v1.2.4, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/daemons-1.2.4/lib" />
@@ -4344,6 +4374,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-2.4.0/bin" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.4.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv-deployment (v0.3.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/dotenv-deployment-0.3.0/lib" />
@@ -4608,6 +4648,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/eventmachine-1.0.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/eventmachine-1.0.9.1/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/eventmachine-1.0.9.1/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.0.9.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/ext" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.5, RVM: ruby-2.4.2 [obruchalka]) [gem]">
@@ -5334,6 +5390,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.3/app" />
+      </SOURCES>
+    </library>
+    <library name="font-awesome-rails (v4.7.0.4, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.4/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.4/app" />
       </SOURCES>
     </library>
     <library name="font-awesome-sass (v5.0.6, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -6400,6 +6466,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.0.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="ice_nine (v0.11.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/ice_nine-0.11.2/benchmarks" />
@@ -6984,6 +7060,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/jquery-rails-4.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/jquery-rails-4.3.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.3.3, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/jquery-rails-4.3.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/jquery-rails-4.3.3/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-turbolinks (v2.1.0, RVM: ruby-2.3.3) [gem]">
@@ -8252,22 +8338,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/mailcatcher-0.2.4/contrib" />
       </SOURCES>
     </library>
-    <library name="mailcatcher (v0.2.4, RVM: ruby-2.5.0 [messenger]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/public" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/public" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/contrib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.2.4/lib" />
-      </SOURCES>
-    </library>
     <library name="mailcatcher (v0.6.5, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/bin" />
@@ -8280,6 +8350,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/public" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="mailcatcher (v0.6.5, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/public" />
       </SOURCES>
     </library>
     <library name="method_source (v0.8.2, RVM: ruby-2.3.3) [gem]">
@@ -9506,6 +9590,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/ext" />
+      </SOURCES>
+    </library>
+    <library name="nio4r (v2.3.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/tasks" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.3.3) [gem]">
@@ -10830,6 +10928,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.3/bin" />
       </SOURCES>
     </library>
+    <library name="puma (v3.11.4, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.11.4/ext" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.8.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
@@ -10926,6 +11040,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/puma-3.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/puma-3.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/puma-3.9.1/tools" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.10, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/contrib" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.8, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -11068,6 +11196,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.5, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-2.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-accept (v0.4.5, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/rack-accept-0.4.5/lib" />
@@ -11114,6 +11256,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/rack-protection-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v1.5.5, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-protection-1.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-protection-1.5.5/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.0, RVM: ruby-2.3.3) [gem]">
@@ -14140,6 +14290,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/selenium-webdriver-3.11.0/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.12.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/selenium-webdriver-3.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/selenium-webdriver-3.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/selenium-webdriver-3.8.0/lib" />
@@ -14580,6 +14738,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/sinatra-1.4.8/lib" />
       </SOURCES>
     </library>
+    <library name="sinatra (v1.4.8, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sinatra-1.4.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sinatra-1.4.8/lib" />
+      </SOURCES>
+    </library>
     <library name="sinatra (v2.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/sinatra-2.0.0/lib" />
@@ -14692,6 +14858,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/skinny-0.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="skinny (v0.2.4, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/skinny-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/skinny-0.2.4/lib" />
       </SOURCES>
     </library>
     <library name="slim (v3.0.8, RVM: ruby-2.3.3) [gem]">
@@ -15620,6 +15794,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/thin-1.5.1/bin" />
       </SOURCES>
     </library>
+    <library name="thin (v1.5.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/ext" />
+      </SOURCES>
+    </library>
     <library name="thin (v1.6.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.6.2" />
@@ -16274,6 +16462,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/uglifier-4.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="uglifier (v4.1.10, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/uglifier-4.1.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/uglifier-4.1.10/lib" />
+      </SOURCES>
+    </library>
     <library name="uglifier (v4.1.3, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/uglifier-4.1.3/lib" />
@@ -16582,6 +16778,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/web-console-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.6.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/web-console-3.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/web-console-3.6.2/lib" />
       </SOURCES>
     </library>
     <library name="webpacker (v3.0.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
