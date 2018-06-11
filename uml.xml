@@ -2,7 +2,9 @@
   <component name="UmlConfiguration">
     <option name="categories">
       <map>
-        <entry id="Ruby" categories="Fields;Methods" />
+        <entry id="DATABASE" categories="Columns" />
+        <entry id="RailsDependency" categories="Migration fields" />
+        <entry id="Ruby" categories="Fields" />
       </map>
     </option>
   </component>
