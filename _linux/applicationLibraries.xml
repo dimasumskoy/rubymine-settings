@@ -954,6 +954,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/animate-rails-1.0.10/app" />
       </SOURCES>
     </library>
+    <library name="archive (v0.0.6, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/archive-0.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/archive-0.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.11.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/archive-zip-0.11.0/lib" />
