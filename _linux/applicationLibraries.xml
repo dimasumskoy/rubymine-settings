@@ -1122,6 +1122,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/audited-4.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="auto_increment (v1.5.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/auto_increment-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/auto_increment-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="autoprefixer-rails (v7.1.4.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/autoprefixer-rails-7.1.4.1/lib" />
@@ -2872,6 +2880,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="chunky_png (v1.3.8, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -5204,6 +5220,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/globalid-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="glyphicons-rails (v0.1.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/glyphicons-rails-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/glyphicons-rails-0.1.2/app" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/glyphicons-rails-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/glyphicons-rails-0.1.2/app" />
       </SOURCES>
     </library>
     <library name="gon (v6.1.0, RVM: ruby-2.3.3) [gem]">
@@ -12598,6 +12624,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/sendgrid-ruby-5.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="sentry-raven (v2.7.4, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sentry-raven-2.7.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sentry-raven-2.7.4/lib" />
+      </SOURCES>
+    </library>
     <library name="settingslogic (v2.0.9, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/settingslogic-2.0.9/lib" />
@@ -14944,6 +14978,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/websocket-extensions-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.10.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/whenever-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/whenever-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="whenever (v0.9.7, RVM: ruby-2.3.3) [gem]">
