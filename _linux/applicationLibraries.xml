@@ -1098,6 +1098,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ast (v2.4.0, RVM: ruby-2.4.2 [obruchalka]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ast-2.4.0/lib" />
@@ -6318,6 +6326,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="jaro_winkler (v1.5.1, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jaro_winkler-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jaro_winkler-1.5.1/lib" />
+      </SOURCES>
+    </library>
     <library name="jasny-bootstrap-rails (v3.1.3, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/jasny-bootstrap-rails-3.1.3/lib" />
@@ -9010,6 +9028,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/parallel-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.1, RVM: ruby-2.4.2 [obruchalka]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parallel-1.12.1/lib" />
@@ -9078,6 +9104,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.0.5/bin" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.1.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/parser-2.5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/parser-2.5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.3.3) [gem]">
@@ -9334,6 +9368,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/powerpack-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/powerpack-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.11.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -10514,6 +10556,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/rainbow-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v3.0.0, RVM: ruby-2.4.2 [obruchalka]) [gem]">
@@ -11894,6 +11944,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.54.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.54.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.54.0/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.57.2, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rubocop-0.57.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rubocop-0.57.2/lib" />
       </SOURCES>
     </library>
     <library name="rubocop-rspec (v1.18.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]">
@@ -14620,6 +14678,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/unicode-display_width-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.4.0, RVM: ruby-2.4.2 [fotocloud]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/unicode-display_width-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/unicode-display_width-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="unicorn (v5.3.1, RVM: ruby-2.3.3) [gem]">
