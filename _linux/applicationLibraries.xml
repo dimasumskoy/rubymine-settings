@@ -3123,6 +3123,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/capybara-webkit-1.14.0/lib" />
       </SOURCES>
     </library>
+    <library name="capybara-webkit (v1.15.0, RVM: ruby-2.4.2 [fotocloud]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/templates" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/src" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/capybara-webkit-1.15.0/templates" />
+      </excluded>
+    </library>
     <library name="capybara-webkit (v1.15.0, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/capybara-webkit-1.15.0/lib" />
