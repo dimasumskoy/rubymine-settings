@@ -1314,6 +1314,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/auto_increment-1.5.0/gemfiles" />
       </excluded>
     </library>
+    <library name="auto_increment (v1.5.0@3172f6, RVM: ruby-2.4.2 [fotocloud]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/bundler/gems/auto_increment-3172f6660c8b/gemfiles" />
+      </excluded>
+    </library>
     <library name="autoprefixer-rails (v7.1.4.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/autoprefixer-rails-7.1.4.1/lib" />
