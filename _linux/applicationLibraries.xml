@@ -117,6 +117,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actioncable-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actioncable-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actioncable-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/actioncable-5.1.6/lib" />
@@ -215,6 +226,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionmailer-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionmailer-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionmailer-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="actionmailer (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
@@ -317,6 +339,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionpack-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionpack-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionpack-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/actionpack-5.1.6/lib" />
@@ -415,6 +448,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionview-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionview-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/actionview-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
@@ -638,6 +682,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activejob-5.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activejob-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activejob-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/activejob-5.1.6/lib" />
@@ -736,6 +791,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activemodel-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activemodel-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activemodel-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
@@ -904,6 +970,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activerecord-5.1.5/examples" />
       </excluded>
     </library>
+    <library name="activerecord (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activerecord-5.1.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activerecord-5.1.6/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activerecord-5.1.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activerecord-5.1.6/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activerecord-5.1.6/examples" />
+      </excluded>
+    </library>
     <library name="activerecord (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/activerecord-5.1.6/lib" />
@@ -1007,6 +1089,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activesupport-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activesupport-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/activesupport-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
@@ -1761,6 +1854,42 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/autoprefixer-rails-9.0.0/spec" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.1.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.0/spec" />
+      </excluded>
+    </library>
+    <library name="autoprefixer-rails (v9.1.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.1/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/autoprefixer-rails-9.1.1/spec" />
+      </excluded>
+    </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -2042,6 +2171,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.11/spec" />
       </excluded>
     </library>
+    <library name="bcrypt (v3.1.12, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bcrypt-3.1.12/spec" />
+      </excluded>
+    </library>
     <library name="bcrypt (v3.1.12, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
@@ -2298,12 +2448,14 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/binding_of_caller-0.8.0/test" />
@@ -2429,6 +2581,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.2.1/ext" />
+      </excluded>
+    </library>
+    <library name="bootsnap (v1.3.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/bootsnap-1.3.1/ext" />
       </excluded>
     </library>
     <library name="bootstrap (v4.0.0, RVM: ruby-2.4.2 [fotocloud]) [gem]" type="rubylib">
@@ -3140,6 +3313,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.1/ext" />
       </excluded>
     </library>
+    <library name="byebug (v10.0.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/byebug-10.0.2/ext" />
+      </excluded>
+    </library>
     <library name="byebug (v10.0.2, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/byebug-10.0.2/lib" />
@@ -3325,6 +3519,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cancancan-2.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="cancancan (v2.2.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cancancan-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cancancan-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano (v3.10.1, RVM: ruby-2.4.2 [fotocloud]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -3380,6 +3585,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/capistrano-3.10.1/lib" />
       </SOURCES>
+    </library>
+    <library name="capistrano (v3.11.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-3.11.0/.github" />
+      </excluded>
     </library>
     <library name="capistrano (v3.11.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
@@ -3644,6 +3873,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/capistrano-rails-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-rails (v1.4.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-rails-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-rails-1.4.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-rails-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-rails-1.4.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-rails-1.4.0/.github" />
+      </excluded>
+    </library>
     <library name="capistrano-rails (v1.4.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capistrano-rails-1.4.0/lib" />
@@ -3750,6 +3995,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/capistrano-sidekiq-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="capistrano-sidekiq (v1.0.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-sidekiq-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capistrano-sidekiq-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-sidekiq (v1.0.2, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -3981,6 +4237,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-2.18.0/.yard" />
       </excluded>
     </library>
+    <library name="capybara (v3.5.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-3.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-3.5.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-3.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-3.5.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-3.5.1/spec" />
+      </excluded>
+    </library>
     <library name="capybara-email (v2.5.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/capybara-email-2.5.0/lib" />
@@ -4029,6 +4301,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/capybara-email-2.5.0/lib" />
       </SOURCES>
+    </library>
+    <library name="capybara-email (v3.0.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-email-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-email-3.0.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-email-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-email-3.0.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/capybara-email-3.0.1/spec" />
+      </excluded>
     </library>
     <library name="capybara-webkit (v1.1.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
@@ -4190,6 +4478,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/carrierwave-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="carrierwave (v1.2.3, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/carrierwave-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/carrierwave-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="carrierwave-imageoptimizer (v1.4.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -4492,6 +4791,29 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/chunky_png-1.3.8/benchmarks" />
       </excluded>
     </library>
+    <library name="ckeditor (v4.2.4, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ckeditor-4.2.4/config" />
+      </excluded>
+    </library>
     <library name="clavius (v1.0.3, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -4502,6 +4824,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/clavius-1.0.3/lib" />
       </SOURCES>
+    </library>
+    <library name="climate_control (v0.2.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/climate_control-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/climate_control-0.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/climate_control-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/climate_control-0.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/climate_control-0.2.0/spec" />
+      </excluded>
     </library>
     <library name="cliver (v0.3.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
@@ -4593,6 +4931,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/cmdparse-3.0.3/doc" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/cmdparse-3.0.3/example" />
+      </excluded>
+    </library>
+    <library name="cocaine (v0.6.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cocaine-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cocaine-0.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cocaine-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cocaine-0.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/cocaine-0.6.0/spec" />
       </excluded>
     </library>
     <library name="cocoon (v1.2.10, RVM: ruby-2.3.3) [gem]">
@@ -5061,6 +5415,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/connection_pool-2.2.1/test" />
       </excluded>
     </library>
+    <library name="connection_pool (v2.2.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/connection_pool-2.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/connection_pool-2.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/connection_pool-2.2.2/test" />
+      </excluded>
+    </library>
     <library name="connection_pool (v2.2.2, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/connection_pool-2.2.2/lib" />
@@ -5181,6 +5551,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/crass-1.0.4/test" />
+      </excluded>
+    </library>
+    <library name="crass (v1.0.4, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/crass-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/crass-1.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/crass-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/crass-1.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/crass-1.0.4/test" />
       </excluded>
     </library>
     <library name="crass (v1.0.4, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
@@ -5397,6 +5783,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/database_cleaner-1.6.2/examples" />
       </excluded>
     </library>
+    <library name="database_cleaner (v1.7.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/database_cleaner-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/database_cleaner-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="date (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES />
       <SOURCES />
@@ -5458,11 +5855,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/debug_inspector-0.0.3/test" />
@@ -6216,6 +6615,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/diffy-3.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="diffy (v3.2.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/diffy-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/diffy-3.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/diffy-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/diffy-3.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/diffy-3.2.1/spec" />
+      </excluded>
+    </library>
     <library name="docile (v1.1.5, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -6281,6 +6696,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/docile-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="docile (v1.3.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/docile-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/docile-1.3.1/lib" />
       </SOURCES>
     </library>
     <library name="domain_name (v0.5.20170404, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -6356,6 +6782,28 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/domain_name-0.5.20170404/lib" />
       </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/tool" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/domain_name-0.5.20180417/tool" />
+      </excluded>
     </library>
     <library name="doorkeeper (v4.2.6, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
@@ -6459,6 +6907,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.4.0/bin" />
       </excluded>
     </library>
+    <library name="dotenv (v2.5.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/dotenv-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/dotenv-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/dotenv-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/dotenv-2.5.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/dotenv-2.5.0/bin" />
+      </excluded>
+    </library>
     <library name="dotenv (v2.5.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/dotenv-2.5.0/bin" />
@@ -6508,6 +6972,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/dotenv-rails-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv-rails (v2.5.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/dotenv-rails-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/dotenv-rails-2.5.0/lib" />
       </SOURCES>
     </library>
     <library name="draper (v3.0.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -6951,6 +7426,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.5/examples" />
       </excluded>
     </library>
+    <library name="eventmachine (v1.2.7, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/eventmachine-1.2.7/examples" />
+      </excluded>
+    </library>
     <library name="eventmachine (v1.2.7, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.2.7/ext" />
@@ -7174,6 +7680,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ey-hmac-2.2.0/spec" />
       </excluded>
     </library>
+    <library name="factory_bot (v4.10.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot-4.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot-4.10.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot-4.10.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="factory_bot (v4.10.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/factory_bot-4.10.0/lib" />
@@ -7246,6 +7768,27 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/factory_bot-4.8.2/gemfiles" />
+      </excluded>
+    </library>
+    <library name="factory_bot_rails (v4.10.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/factory_bot_rails-4.10.0/gemfiles" />
       </excluded>
     </library>
     <library name="factory_bot_rails (v4.10.0, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -7534,6 +8077,25 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="ffaker (v2.10.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/scripts" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffaker-2.10.0/scripts" />
+      </excluded>
+    </library>
     <library name="ffaker (v2.7.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -7751,6 +8313,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.23/samples" />
       </excluded>
     </library>
+    <library name="ffi (v1.9.25, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ffi-1.9.25/samples" />
+      </excluded>
+    </library>
     <library name="ffi (v1.9.25, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/ffi-1.9.25/lib" />
@@ -7917,6 +8500,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.3/test" />
       </excluded>
     </library>
+    <library name="font-awesome-rails (v4.7.0.4, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/font-awesome-rails-4.7.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/font-awesome-rails-4.7.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/font-awesome-rails-4.7.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/font-awesome-rails-4.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/font-awesome-rails-4.7.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/font-awesome-rails-4.7.0.4/test" />
+      </excluded>
+    </library>
     <library name="font-awesome-rails (v4.7.0.4, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/font-awesome-rails-4.7.0.4/app" />
@@ -8030,6 +8631,31 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/foreman-0.84.0/lib" />
       </SOURCES>
+    </library>
+    <library name="foreman (v0.85.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/foreman-0.85.0/spec" />
+      </excluded>
     </library>
     <library name="formatador (v0.2.5, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
@@ -8158,6 +8784,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/fuubar-2.3.1/spec" />
       </excluded>
+    </library>
+    <library name="fuubar (v2.3.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/fuubar-2.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/fuubar-2.3.2/lib" />
+      </SOURCES>
     </library>
     <library name="gdbm (v2.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES />
@@ -8499,6 +9136,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/gon-6.2.0/coffee" />
       </excluded>
     </library>
+    <library name="gon (v6.2.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/js" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/coffee" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/js" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/coffee" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/js" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/gon-6.2.1/coffee" />
+      </excluded>
+    </library>
     <library name="gon (v6.2.1, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/gon-6.2.1/js" />
@@ -8627,6 +9289,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.0.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.0.2/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.0.2/benchmark" />
+      </excluded>
+    </library>
+    <library name="grape (v1.1.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/pkg" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/grape-1.1.0/benchmark" />
       </excluded>
     </library>
     <library name="grape-active_model_serializers (v1.5.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -9608,6 +10295,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/i18n-1.0.1/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v1.1.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="ice_nine (v0.11.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -9798,6 +10504,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/interactor-3.1.0/lib" />
       </SOURCES>
+    </library>
+    <library name="interactor (v3.1.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/interactor-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/interactor-3.1.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/interactor-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/interactor-3.1.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/interactor-3.1.1/spec" />
+      </excluded>
     </library>
     <library name="io-console (v0.4.5, RVM: ruby-2.3.3 [global]) [gem]">
       <CLASSES>
@@ -10181,6 +10903,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jaro_winkler-1.5.1/ext" />
       </excluded>
     </library>
+    <library name="jaro_winkler (v1.5.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jaro_winkler-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jaro_winkler-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jaro_winkler-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jaro_winkler-1.5.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jaro_winkler-1.5.1/ext" />
+      </excluded>
+    </library>
     <library name="jasny-bootstrap-rails (v3.1.3, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -10347,6 +11087,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/jquery-rails-4.3.1/test" />
+      </excluded>
+    </library>
+    <library name="jquery-rails (v4.3.3, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jquery-rails-4.3.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jquery-rails-4.3.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jquery-rails-4.3.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jquery-rails-4.3.3/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/jquery-rails-4.3.3/test" />
       </excluded>
     </library>
     <library name="jquery-rails (v4.3.3, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -11511,11 +12269,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
@@ -11881,6 +12641,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/lumberjack-1.0.12/lib" />
       </SOURCES>
+    </library>
+    <library name="lumberjack (v1.0.13, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/lumberjack-1.0.13/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/lumberjack-1.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/lumberjack-1.0.13/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/lumberjack-1.0.13/spec" />
+      </excluded>
     </library>
     <library name="mail (v2.6.6, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
@@ -12273,6 +13049,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mime-types-3.1/test" />
       </excluded>
     </library>
+    <library name="mime-types (v3.2.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/mime-types-data-3.2016.0521/lib" />
@@ -12348,6 +13140,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mime-types-data-3.2016.0521/data" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mime-types-data-3.2018.0812/types" />
       </excluded>
     </library>
     <library name="mini_magick (v4.8.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -12965,6 +13776,7 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/msgpack-1.2.4/spec" />
@@ -12972,6 +13784,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/msgpack-1.2.4/spec" />
@@ -13508,6 +14321,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/net-ssh-4.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="net-ssh (v5.0.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/net-ssh-5.0.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/net-ssh-5.0.2/support" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/net-ssh-5.0.2/support" />
+      </excluded>
+    </library>
     <library name="net-ssh (v5.0.2, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/net-ssh-5.0.2/lib" />
@@ -13899,6 +14728,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.0/examples" />
       </excluded>
     </library>
+    <library name="nio4r (v2.3.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nio4r-2.3.1/examples" />
+      </excluded>
+    </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/nio4r-2.3.1/lib" />
@@ -14176,6 +15032,39 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.2/suppressions" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.8.4, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/nokogiri-1.8.4/suppressions" />
       </excluded>
     </library>
     <library name="nokogiri (v1.8.4, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -14685,6 +15574,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/parser-2.5.1.0/test" />
       </excluded>
     </library>
+    <library name="parser (v2.5.1.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/parser-2.5.1.2/test" />
+      </excluded>
+    </library>
     <library name="pg (v0.21.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/pg-0.21.0/lib" />
@@ -14738,11 +15649,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/pg-0.21.0/spec" />
@@ -14860,6 +15773,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/poltergeist-1.17.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="poltergeist (v1.18.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/poltergeist-1.18.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/poltergeist-1.18.1/lib" />
       </SOURCES>
     </library>
     <library name="popper_js (v1.12.9, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -15113,6 +16037,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/powerpack-0.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="powerpack (v0.1.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/powerpack-0.1.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/powerpack-0.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/powerpack-0.1.2/spec" />
       </excluded>
     </library>
     <library name="pry (v0.11.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -15821,6 +16761,7 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/puma-3.8.2/lib" />
@@ -15830,6 +16771,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/puma-3.8.2/lib" />
@@ -16114,6 +17056,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rack-2.0.5/example" />
       </excluded>
     </library>
+    <library name="rack (v2.0.5, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-2.0.5/example" />
+      </excluded>
+    </library>
     <library name="rack (v2.0.5, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/rack-2.0.5/lib" />
@@ -16311,6 +17278,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-protection-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.3, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-protection-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-protection-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-protection (v2.0.3, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -16520,6 +17498,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-test-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v1.1.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rack-test-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v1.1.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-test-1.1.0/lib" />
@@ -16589,6 +17578,13 @@
       <SOURCES />
     </library>
     <library name="rails (v5.1.5, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rails (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
       </properties>
@@ -17042,6 +18038,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.5/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v5.1.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/railties-5.1.6/exe" />
       </excluded>
     </library>
     <library name="railties (v5.1.6, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
@@ -17592,11 +18604,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rb-fsevent-0.10.3/lib" />
@@ -18005,12 +19019,14 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/redcarpet-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/redcarpet-3.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/redcarpet-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/redcarpet-3.0.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/redcarpet-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/redcarpet-3.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/redcarpet-3.0.0/lib" />
@@ -18754,6 +19770,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.8.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.6.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rspec-core-3.6.0/lib" />
@@ -18868,6 +19895,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-core-3.7.1/exe" />
       </excluded>
     </library>
+    <library name="rspec-core (v3.8.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-core-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-core-3.8.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-core-3.8.0/exe" />
+      </excluded>
+    </library>
     <library name="rspec-expectations (v3.6.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rspec-expectations-3.6.0/lib" />
@@ -18944,6 +19987,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-expectations-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.8.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-expectations-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-expectations-3.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.6.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rspec-mocks-3.6.0/lib" />
@@ -19018,6 +20072,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-mocks-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.8.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-mocks-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.6.0, RVM: ruby-2.3.3) [gem]">
@@ -19102,6 +20167,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.8.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-rails-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-rails-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-retry (v0.5.6, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -19247,6 +20323,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rspec-support-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.8.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-support-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rspec-support-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rubocop (v0.49.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rubocop-0.49.1/lib" />
@@ -19384,6 +20471,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rubocop-0.57.2/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.58.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-0.58.2/config" />
+      </excluded>
+    </library>
     <library name="rubocop-rspec (v1.18.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -19467,6 +20579,36 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.24.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.24.0/config" />
       </excluded>
+    </library>
+    <library name="rubocop-rspec (v1.27.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/rubocop-rspec-1.27.0/config" />
+      </excluded>
+    </library>
+    <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.8.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
@@ -20085,6 +21227,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.6/rails" />
       </excluded>
     </library>
+    <library name="sass (v3.5.7, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/rails" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sass-3.5.7/rails" />
+      </excluded>
+    </library>
     <library name="sass (v3.5.7, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sass-3.5.7/bin" />
@@ -20295,6 +21462,27 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/sassc-1.11.4/lib" />
       </SOURCES>
+    </library>
+    <library name="sassc (v1.12.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/1.12.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/1.12.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sassc-1.12.1/test" />
+      </excluded>
     </library>
     <library name="sassc-rails (v1.3.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
@@ -20905,6 +22093,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.1/.github" />
       </excluded>
     </library>
+    <library name="sidekiq (v5.1.3, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.1.3/.github" />
+      </excluded>
+    </library>
     <library name="sidekiq (v5.1.3, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sidekiq-5.1.3/bin" />
@@ -20922,6 +22132,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sidekiq-5.1.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sidekiq-5.1.3/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sidekiq-5.1.3/.github" />
+      </excluded>
+    </library>
+    <library name="sidekiq (v5.2.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sidekiq-5.2.1/.github" />
       </excluded>
     </library>
     <library name="simplecov (v0.15.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -21220,6 +22452,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sinatra-2.0.1/examples" />
+      </excluded>
+    </library>
+    <library name="sinatra (v2.0.3, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sinatra-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sinatra-2.0.3/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sinatra-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sinatra-2.0.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sinatra-2.0.3/examples" />
       </excluded>
     </library>
     <library name="skim (v0.10.0, RVM: ruby-2.3.3) [gem]">
@@ -21815,6 +23063,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sprockets-3.7.1/bin" />
       </excluded>
     </library>
+    <library name="sprockets (v3.7.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sprockets-3.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sprockets-3.7.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sprockets-3.7.2/bin" />
+      </excluded>
+    </library>
     <library name="sprockets (v3.7.2, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sprockets-3.7.2/bin" />
@@ -21966,6 +23230,7 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sqlite3-1.3.13/lib" />
@@ -21973,6 +23238,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sqlite3-1.3.13/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sqlite3-1.3.13/lib" />
@@ -22157,6 +23423,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/sshkit-1.16.0/lib" />
       </SOURCES>
+    </library>
+    <library name="sshkit (v1.17.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/sshkit-1.17.0/examples" />
+      </excluded>
     </library>
     <library name="sshkit (v1.17.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
@@ -22370,6 +23655,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/temple-0.8.0/test" />
+      </excluded>
+    </library>
+    <library name="terrapin (v0.6.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/terrapin-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/terrapin-0.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/terrapin-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/terrapin-0.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/terrapin-0.6.0/spec" />
       </excluded>
     </library>
     <library name="test-unit (v3.1.5, RVM: ruby-2.3.3 [global]) [gem]">
@@ -22615,11 +23916,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/therubyracer-0.12.3/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/therubyracer-0.12.3/spec" />
@@ -22777,12 +24080,14 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/thin-1.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/thin-1.7.2/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/thin-1.7.2/lib" />
@@ -23655,6 +24960,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/uglifier-4.1.15/lib" />
       </SOURCES>
     </library>
+    <library name="uglifier (v4.1.17, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/uglifier-4.1.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/uglifier-4.1.17/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.18, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/uglifier-4.1.18/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/uglifier-4.1.18/lib" />
+      </SOURCES>
+    </library>
     <library name="uglifier (v4.1.3, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/uglifier-4.1.3/lib" />
@@ -23901,6 +25228,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/unicode-display_width-1.4.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/unicode-display_width-1.4.0/spec" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.4.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/unicode-display_width-1.4.0/spec" />
       </excluded>
     </library>
     <library name="unicorn (v5.3.1, RVM: ruby-2.3.3) [gem]">
@@ -24347,11 +25693,13 @@
         <option name="version" value="2" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/websocket-driver-0.6.5/examples" />
@@ -24735,6 +26083,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/xpath-3.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="xpath (v3.1.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/xpath-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/xpath-3.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/xpath-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/xpath-3.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/xpath-3.1.0/spec" />
       </excluded>
     </library>
     <library name="xpath (v3.1.0, RVM: ruby-2.4.2 [rails-starter-kit]) [gem]">
