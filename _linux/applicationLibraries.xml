@@ -10018,6 +10018,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/eventmachine-1.0.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="eventmachine (v1.0.9.1, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/eventmachine-1.0.9.1/examples" />
+      </excluded>
+    </library>
     <library name="eventmachine (v1.0.9.1, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/ext" />
@@ -14027,6 +14058,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/i18n-1.1.0/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v1.1.0, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/i18n-1.1.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="i18n (v1.1.0, RVM: ruby-2.5.1 [vault77]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -17464,6 +17514,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/public" />
       </excluded>
     </library>
+    <library name="mailcatcher (v0.6.5, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/public" />
+      </excluded>
+    </library>
     <library name="mailcatcher (v0.6.5, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/bin" />
@@ -18094,6 +18166,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mini_mime-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mini_mime-1.0.0/bench" />
+      </excluded>
+    </library>
+    <library name="mini_mime (v1.0.1, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mini_mime-1.0.1/bench" />
       </excluded>
     </library>
     <library name="mini_mime (v1.0.1, RVM: ruby-2.5.1 [vault77]) [gem]" type="rubylib">
@@ -19222,6 +19313,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mustermann-1.0.2/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mustermann-1.0.2/bench" />
+      </excluded>
+    </library>
+    <library name="mustermann (v1.0.3, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mustermann-1.0.3/bench" />
       </excluded>
     </library>
     <library name="mustermann-grape (v1.0.0, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -23235,6 +23345,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pusher-client-0.6.2/examples" />
       </excluded>
     </library>
+    <library name="rack (v1.6.10, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-1.6.10/example" />
+      </excluded>
+    </library>
     <library name="rack (v1.6.10, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/bin" />
@@ -23693,6 +23828,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/rack-protection-1.5.3/spec" />
       </excluded>
     </library>
+    <library name="rack-protection (v1.5.5, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-protection-1.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-protection-1.5.5/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-protection-1.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-protection-1.5.5/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-protection-1.5.5/spec" />
+      </excluded>
+    </library>
     <library name="rack-protection (v1.5.5, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-protection-1.5.5/lib" />
@@ -23805,6 +23956,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-protection-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.4, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-protection-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rack-protection-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rack-proxy (v0.6.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -30885,6 +31047,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/sinatra-1.4.8/examples" />
       </excluded>
     </library>
+    <library name="sinatra (v1.4.8, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-1.4.8/examples" />
+      </excluded>
+    </library>
     <library name="sinatra (v1.4.8, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sinatra-1.4.8/lib" />
@@ -31034,6 +31215,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-2.0.3/examples" />
       </excluded>
     </library>
+    <library name="sinatra (v2.0.4, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-2.0.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-2.0.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sinatra-2.0.4/examples" />
+      </excluded>
+    </library>
     <library name="skim (v0.10.0, RVM: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -31121,6 +31318,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/skinny-0.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="skinny (v0.2.4, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/skinny-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/skinny-0.2.4/lib" />
       </SOURCES>
     </library>
     <library name="skinny (v0.2.4, RVM: ruby-2.5.0 [messenger]) [gem]">
@@ -33269,6 +33477,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/thin-1.5.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/thin-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/thin-1.5.1/example" />
+      </excluded>
+    </library>
+    <library name="thin (v1.5.1, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/thin-1.5.1/example" />
       </excluded>
     </library>
     <library name="thin (v1.5.1, RVM: ruby-2.5.0 [messenger]) [gem]">
