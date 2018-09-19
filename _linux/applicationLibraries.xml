@@ -17465,6 +17465,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/mailcatcher-0.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="mailcatcher (v0.2.4, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/contrib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/public" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.2.4/contrib" />
+      </excluded>
+    </library>
     <library name="mailcatcher (v0.6.5, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
