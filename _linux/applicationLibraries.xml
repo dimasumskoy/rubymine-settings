@@ -16657,6 +16657,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/letter_opener-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="letter_opener (v1.6.0, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/letter_opener-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/letter_opener-1.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/letter_opener-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/letter_opener-1.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/letter_opener-1.6.0/spec" />
+      </excluded>
+    </library>
     <library name="letter_opener (v1.6.0, RVM: ruby-2.5.0 [messenger]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/letter_opener-1.6.0/lib" />
@@ -17469,28 +17485,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/mailcatcher-0.6.5/public" />
-      </excluded>
-    </library>
-    <library name="mailcatcher (v0.6.5, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="2" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/public" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/public" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/views" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/mailcatcher-0.6.5/public" />
       </excluded>
     </library>
     <library name="mailcatcher (v0.6.5, RVM: ruby-2.5.0 [messenger]) [gem]">
