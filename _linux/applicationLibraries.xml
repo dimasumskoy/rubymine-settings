@@ -21201,6 +21201,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/orm_adapter-0.5.0/gemfiles" />
       </excluded>
     </library>
+    <library name="os (v1.0.0, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/os-1.0.0/autotest" />
+      </excluded>
+    </library>
     <library name="parallel (v1.11.2, RVM: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
