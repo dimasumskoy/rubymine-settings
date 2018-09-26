@@ -3733,11 +3733,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bcrypt-3.1.11/spec" />
@@ -4258,12 +4260,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/binding_of_caller-0.7.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/binding_of_caller-0.7.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/binding_of_caller-0.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/binding_of_caller-0.7.2/test" />
@@ -4444,11 +4448,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.1.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootsnap-1.1.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootsnap-1.1.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootsnap-1.1.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.1.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootsnap-1.1.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootsnap-1.1.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/bootsnap-1.1.5/lib" />
@@ -6142,11 +6148,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/byebug-9.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/byebug-9.1.0/lib" />
@@ -10431,11 +10439,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/debug_inspector-0.0.3/test" />
@@ -13306,6 +13316,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/eventmachine-1.0.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/eventmachine-1.0.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/eventmachine-1.0.9.1/docs" />
@@ -13315,6 +13326,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/eventmachine-1.0.9.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.0.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/eventmachine-1.0.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/eventmachine-1.0.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/eventmachine-1.0.9.1/docs" />
@@ -15111,6 +15123,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ffi-1.9.18/lib" />
@@ -15118,6 +15131,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ffi-1.9.18/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/ffi-1.9.18/lib" />
@@ -19990,10 +20004,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -22632,11 +22648,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
@@ -25468,6 +25486,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/msgpack-1.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/msgpack-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/msgpack-1.1.0/spec" />
@@ -25475,6 +25494,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/msgpack-1.1.0/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/msgpack-1.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/msgpack-1.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/msgpack-1.1.0/spec" />
@@ -27153,6 +27173,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nio4r-2.1.0/spec" />
@@ -27160,6 +27181,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nio4r-2.1.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nio4r-2.1.0/spec" />
@@ -27749,6 +27771,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/lib" />
@@ -27758,6 +27781,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/nokogiri-1.8.2/lib" />
@@ -29191,11 +29215,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/pg-0.21.0/spec" />
@@ -31482,6 +31508,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/puma-3.8.2/lib" />
@@ -31491,6 +31518,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/puma-3.8.2/lib" />
@@ -35144,11 +35172,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/rb-fsevent-0.10.2/lib" />
@@ -40718,11 +40748,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/1.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sassc-1.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sassc-1.11.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sassc-1.11.4/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/1.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sassc-1.11.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sassc-1.11.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sassc-1.11.4/test" />
@@ -44105,6 +44137,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sqlite3-1.3.13/lib" />
@@ -44112,6 +44145,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sqlite3-1.3.13/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/sqlite3-1.3.13/lib" />
@@ -45598,11 +45632,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/therubyracer-0.12.3/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/therubyracer-0.12.3/spec" />
@@ -45798,12 +45834,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/thin-1.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/thin-1.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/thin-1.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/thin-1.6.2/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/thin-1.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/thin-1.6.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/thin-1.6.2/lib" />
@@ -49002,11 +49040,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/websocket-driver-0.6.5/examples" />
