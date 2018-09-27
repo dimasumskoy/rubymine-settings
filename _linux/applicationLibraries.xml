@@ -24722,6 +24722,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/libv8-6.3.292.48.1-x86_64-linux/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8 (v6.7.288.46.1, RVM: ruby-2.5.1 [robarin]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/libv8-6.7.288.46.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/libv8-6.7.288.46.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/libv8-6.7.288.46.1-x86_64-linux/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/libv8-6.7.288.46.1-x86_64-linux/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/libv8-6.7.288.46.1-x86_64-linux/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/libv8-6.7.288.46.1-x86_64-linux/vendor" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.0.8, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -27039,6 +27054,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/mini_racer-0.1.15/bin" />
+      </excluded>
+    </library>
+    <library name="mini_racer (v0.2.2, RVM: ruby-2.5.1 [robarin]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/mini_racer-0.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/mini_racer-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/mini_racer-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/mini_racer-0.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/mini_racer-0.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/mini_racer-0.2.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/mini_racer-0.2.2/bin" />
       </excluded>
     </library>
     <library name="minitest (v5.10.1, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
