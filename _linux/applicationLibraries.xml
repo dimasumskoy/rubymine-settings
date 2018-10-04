@@ -4389,7 +4389,7 @@
     </library>
     <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -21582,7 +21582,7 @@
     </library>
     <library name="io-console (v0.4.6, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -22414,7 +22414,7 @@
     </library>
     <library name="json (v2.0.4, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/json/add" />
@@ -31100,7 +31100,7 @@
     </library>
     <library name="openssl (v2.0.5, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -33532,7 +33532,7 @@
     </library>
     <library name="psych (v2.2.2, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/psych/json" />
@@ -39109,7 +39109,7 @@
     </library>
     <library name="rdoc (v5.0.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="2" />
+        <option name="version" value="3" />
       </properties>
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.4.2/lib/ruby/2.4.0/rdoc/rd" />
