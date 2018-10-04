@@ -4207,11 +4207,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bcrypt-3.1.12/spec" />
@@ -4760,12 +4762,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/binding_of_caller-0.8.0/test" />
@@ -4989,11 +4993,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bootsnap-1.3.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/bootsnap-1.3.2/lib" />
@@ -6639,11 +6645,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/byebug-10.0.2/lib" />
@@ -9129,6 +9137,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/chromedriver-helper-1.2.0/concourse" />
       </excluded>
     </library>
+    <library name="chromedriver-helper (v1.2.0, RVM: ruby-2.5.1 [robarin]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/concourse" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/chromedriver-helper-1.2.0/concourse" />
+      </excluded>
+    </library>
     <library name="chromedriver-helper (v1.2.0, RVM: ruby-2.5.1 [vault77]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -11500,11 +11530,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/debug_inspector-0.0.3/test" />
@@ -16751,11 +16783,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/ffi-1.9.25/samples" />
@@ -21882,10 +21916,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -28027,6 +28063,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/msgpack-1.2.4/spec" />
@@ -28034,6 +28071,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/msgpack-1.2.4/spec" />
@@ -30071,6 +30109,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nio4r-2.3.1/spec" />
@@ -30078,6 +30117,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nio4r-2.3.1/spec" />
@@ -30623,6 +30663,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nokogiri-1.8.4/lib" />
@@ -30632,6 +30673,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/nokogiri-1.8.4/lib" />
@@ -32031,11 +32073,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/pg-0.21.0/spec" />
@@ -34548,6 +34592,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/puma-3.8.2/lib" />
@@ -34557,6 +34602,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/puma-3.8.2/lib" />
@@ -38506,11 +38552,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/rb-fsevent-0.10.3/lib" />
@@ -39659,12 +39707,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/redcarpet-3.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/redcarpet-3.4.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/redcarpet-3.4.0/lib" />
@@ -44524,11 +44574,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sassc-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sassc-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sassc-1.12.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sassc-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sassc-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sassc-1.12.1/test" />
@@ -44855,6 +44907,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/select2-rails-4.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/select2-rails-4.0.3/vendor" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v2.53.4, RVM: ruby-2.5.1 [robarin]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/selenium-webdriver-2.53.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/selenium-webdriver-2.53.4/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.11.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
@@ -48265,6 +48328,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sqlite3-1.3.13/lib" />
@@ -48272,6 +48336,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sqlite3-1.3.13/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sqlite3/1.3.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sqlite3-1.3.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sqlite3-1.3.13/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/sqlite3-1.3.13/lib" />
@@ -50162,12 +50227,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/thin-1.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/thin-1.7.2/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/thin/1.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/thin-1.7.2/lib" />
@@ -53595,10 +53662,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
