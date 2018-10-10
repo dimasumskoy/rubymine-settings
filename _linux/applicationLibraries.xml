@@ -4793,7 +4793,10 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/bigdecimal" />
       </SOURCES>
     </library>
-    <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="bigdecimal (v1.3.4, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -10182,7 +10185,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/cliver-0.3.2/.githooks" />
       </excluded>
     </library>
-    <library name="cmath (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="cmath (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -11633,7 +11639,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/css_parser-1.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="csv (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="csv (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -12128,7 +12137,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vault77/gems/database_cleaner-1.7.0/lib" />
       </SOURCES>
     </library>
-    <library name="date (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="date (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -12185,7 +12197,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="dbm (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="dbm (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -15616,7 +15631,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/et-orbi-1.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="etc (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="etc (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -17538,7 +17556,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/fasterer-0.4.1/spec" />
       </excluded>
     </library>
-    <library name="fcntl (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="fcntl (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -18118,7 +18139,10 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/fiddle" />
       </SOURCES>
     </library>
-    <library name="fiddle (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="fiddle (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -18175,7 +18199,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="fileutils (v1.0.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="fileutils (v1.0.2, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -19091,7 +19118,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/fuubar-2.3.2/lib" />
       </SOURCES>
     </library>
-    <library name="gdbm (v2.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="gdbm (v2.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -23360,7 +23390,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="io-console (v0.4.6, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="io-console (v0.4.6, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -23538,7 +23571,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vault77/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="ipaddr (v1.2.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="ipaddr (v1.2.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -24494,7 +24530,10 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/json/add" />
       </SOURCES>
     </library>
-    <library name="json (v2.1.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="json (v2.1.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/json/add" />
       </CLASSES>
@@ -33660,7 +33699,10 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/openssl" />
       </SOURCES>
     </library>
-    <library name="openssl (v2.1.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="openssl (v2.1.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -36355,7 +36397,10 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/psych/json" />
       </SOURCES>
     </library>
-    <library name="psych (v3.0.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="psych (v3.0.2, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/psych/json" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/psych/nodes" />
@@ -42334,7 +42379,10 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/rdoc/ri" />
       </SOURCES>
     </library>
-    <library name="rdoc (v6.0.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="rdoc (v6.0.1, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/rdoc/rd" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/rdoc/ri" />
@@ -48231,7 +48279,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/savon-2.12.0/spec" />
       </excluded>
     </library>
-    <library name="scanf (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="scanf (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -48288,7 +48339,10 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="sdbm (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="sdbm (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -52562,7 +52616,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/state_machines-rspec-0.5.0/spec" />
       </excluded>
     </library>
-    <library name="stringio (v0.0.1, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="stringio (v0.0.1, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -52725,7 +52782,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/stripe-ruby-mock-2.5.4/spec" />
       </excluded>
     </library>
-    <library name="strscan (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="strscan (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
@@ -57412,7 +57472,10 @@
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/webrick/httpservlet" />
       </SOURCES>
     </library>
-    <library name="webrick (v1.4.2, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="webrick (v1.4.2, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES>
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/webrick/httpauth" />
         <root url="file:///usr/share/rvm/rubies/ruby-2.5.0/lib/ruby/2.5.0/webrick/httpservlet" />
@@ -58615,7 +58678,10 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/yotpo-0.1.0/spec" />
       </excluded>
     </library>
-    <library name="zlib (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]">
+    <library name="zlib (v1.0.0, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
       <CLASSES />
       <SOURCES />
     </library>
