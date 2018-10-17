@@ -15084,6 +15084,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@rails-starter-kit/gems/draper-3.0.0/.github" />
       </excluded>
     </library>
+    <library name="draper (v3.0.1, RVM: ruby-2.4.2 [fotocloud]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/draper-3.0.1/.github" />
+      </excluded>
+    </library>
     <library name="draper (v3.0.1, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -52928,6 +52947,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/subroutine-0.5.3/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/subroutine-0.5.3/gemfiles" />
       </excluded>
+    </library>
+    <library name="summernote-rails (v0.8.10.0, RVM: ruby-2.4.2 [fotocloud]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/summernote-rails-0.8.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/summernote-rails-0.8.10.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/summernote-rails-0.8.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/summernote-rails-0.8.10.0/vendor" />
+      </SOURCES>
     </library>
     <library name="summernote-rails (v0.8.10.0, RVM: ruby-2.5.1 [robarin]) [gem]" type="rubylib">
       <properties>
