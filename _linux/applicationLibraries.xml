@@ -2958,6 +2958,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@vault77/gems/anyway_config-0.5.1/gemfiles" />
       </excluded>
     </library>
+    <library name="api-ai-ruby (v2.1.0, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/api-ai-ruby-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/api-ai-ruby-2.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/api-ai-ruby-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/api-ai-ruby-2.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/api-ai-ruby-2.1.0/spec" />
+      </excluded>
+    </library>
     <library name="arbre (v1.1.1, RVM: ruby-2.5.1 [rails500]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -22147,6 +22163,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/htmlentities-4.3.4/test" />
       </excluded>
     </library>
+    <library name="http (v2.2.2, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-2.2.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-2.2.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-2.2.2/spec" />
+      </excluded>
+    </library>
     <library name="http (v2.2.2, RVM: ruby-2.5.1 [rails500]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -22307,6 +22339,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/http-cookie-1.0.3/test" />
       </excluded>
     </library>
+    <library name="http-form_data (v1.0.3, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-form_data-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-form_data-1.0.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-form_data-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-form_data-1.0.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http-form_data-1.0.3/spec" />
+      </excluded>
+    </library>
     <library name="http-form_data (v1.0.3, RVM: ruby-2.5.1 [rails500]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -22339,6 +22387,33 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/http_accept_language-2.1.1/spec" />
+      </excluded>
+    </library>
+    <library name="http_parser.rb (v0.6.0, RVM: ruby-2.4.4 [voice-designer]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/tasks" />
       </excluded>
     </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.5.1 [rails500]) [gem]" type="rubylib">
