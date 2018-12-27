@@ -4,7 +4,7 @@
     <property name="description">Brighter font</property>
     <property name="ide">Ruby</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2018-12-25T16:52:32</property>
+    <property name="modified">2018-12-27T16:02:06</property>
     <property name="originalScheme">Darcula</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -75,6 +75,41 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="5baf47" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffd821" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffd821" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d368f4" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f48600" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d3e4f4" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="d2ce60" />
+      </value>
+    </option>
+    <option name="JS.STRING">
+      <value>
+        <option name="FOREGROUND" value="63e145" />
       </value>
     </option>
     <option name="RUBY_CONSTANT">
