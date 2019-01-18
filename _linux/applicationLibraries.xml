@@ -17629,6 +17629,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/eventmachine-1.0.9.1/examples" />
       </excluded>
     </library>
+    <library name="eventmachine (v1.0.9.1, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/eventmachine-1.0.9.1/examples" />
+      </excluded>
+    </library>
     <library name="eventmachine (v1.2.5, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -31234,6 +31265,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mailcatcher-0.6.5/public" />
       </excluded>
     </library>
+    <library name="mailcatcher (v0.6.5, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mailcatcher-0.6.5/public" />
+      </excluded>
+    </library>
     <library name="marcel (v0.3.2, RVM: ruby-2.5.1 [vault77]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -41749,6 +41802,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-1.6.10/example" />
       </excluded>
     </library>
+    <library name="rack (v1.6.11, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-1.6.11/example" />
+      </excluded>
+    </library>
     <library name="rack (v1.6.8, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -42496,6 +42574,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rack-protection-1.5.5/spec" />
+      </excluded>
+    </library>
+    <library name="rack-protection (v1.5.5, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-protection-1.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-protection-1.5.5/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-protection-1.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-protection-1.5.5/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-protection-1.5.5/spec" />
       </excluded>
     </library>
     <library name="rack-protection (v2.0.0, RVM: ruby-2.3.3) [gem]" type="rubylib">
@@ -55789,6 +55883,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/sinatra-1.4.8/examples" />
       </excluded>
     </library>
+    <library name="sinatra (v1.4.8, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/sinatra-1.4.8/examples" />
+      </excluded>
+    </library>
     <library name="sinatra (v2.0.0, RVM: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -56223,6 +56336,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/skinny-0.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="skinny (v0.2.4, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/skinny-0.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/skinny-0.2.4/lib" />
       </SOURCES>
     </library>
     <library name="slim (v3.0.8, RVM: ruby-2.3.3) [gem]" type="rubylib">
@@ -60025,6 +60149,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/thin-1.5.1/example" />
+      </excluded>
+    </library>
+    <library name="thin (v1.5.1, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/thin-1.5.1/example" />
       </excluded>
     </library>
     <library name="thin (v1.6.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
