@@ -5084,11 +5084,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bcrypt-3.1.12/spec" />
@@ -5103,11 +5105,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bcrypt-3.1.12/spec" />
@@ -5558,11 +5562,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.5.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/bindex-0.5.0/test" />
@@ -5727,12 +5733,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/binding_of_caller-0.8.0/test" />
@@ -5992,11 +6000,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bootsnap-1.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bootsnap-1.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bootsnap-1.3.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bootsnap-1.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bootsnap-1.3.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/bootsnap-1.3.0/lib" />
@@ -7953,11 +7963,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/byebug-10.0.2/lib" />
@@ -7972,11 +7984,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/byebug-10.0.2/lib" />
@@ -10328,6 +10342,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/src" />
@@ -10337,6 +10352,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/templates" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/capybara-webkit-1.15.0/src" />
@@ -13730,11 +13746,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/debug_inspector-0.0.3/test" />
@@ -20005,11 +20023,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/ffi-1.9.25/samples" />
@@ -20024,11 +20044,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/ffi-1.9.25/samples" />
@@ -22283,11 +22305,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/google-protobuf/3.6.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/google-protobuf-3.6.1-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/google-protobuf-3.6.1-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/google-protobuf-3.6.1-x86_64-linux/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/google-protobuf/3.6.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/google-protobuf-3.6.1-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/google-protobuf-3.6.1-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/google-protobuf-3.6.1-x86_64-linux/tests" />
@@ -24925,6 +24949,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/spec" />
@@ -24932,6 +24957,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/http_parser.rb-0.6.0/spec" />
@@ -26509,10 +26535,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/jaro_winkler-1.5.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/jaro_winkler-1.5.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
@@ -29146,12 +29174,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/kgio-2.11.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/kgio-2.11.2/archive" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/kgio/2.11.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/kgio-2.11.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/kgio-2.11.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/kgio-2.11.2/test" />
@@ -29936,11 +29966,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
@@ -29951,11 +29983,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/libv8-3.16.14.19-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/libv8-3.16.14.19-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/libv8-3.16.14.19-x86_64-linux/vendor" />
@@ -33846,6 +33880,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/msgpack-1.2.4/spec" />
@@ -33853,6 +33888,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/msgpack-1.2.4/spec" />
@@ -34769,6 +34805,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mysql2-0.4.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mysql2-0.4.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mysql2-0.4.10/spec" />
@@ -34776,6 +34813,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mysql2-0.4.10/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.4.10" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mysql2-0.4.10/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mysql2-0.4.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/mysql2-0.4.10/spec" />
@@ -36213,6 +36251,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nio4r-2.3.1/spec" />
@@ -36220,6 +36259,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nio4r-2.3.1/spec" />
@@ -36238,6 +36278,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/spec" />
@@ -36245,6 +36286,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nio4r-2.3.1/spec" />
@@ -36872,6 +36914,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nokogiri-1.8.4/lib" />
@@ -36881,6 +36924,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/nokogiri-1.8.4/lib" />
@@ -36903,6 +36947,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.4/lib" />
@@ -36912,6 +36957,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/nokogiri-1.8.4/lib" />
@@ -37322,12 +37368,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/oj-3.6.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/oj-3.6.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/oj-3.6.12/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/oj-3.6.12/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/oj-3.6.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/oj-3.6.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/oj-3.6.12/test" />
@@ -38578,11 +38626,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/pg-0.21.0/spec" />
@@ -38717,11 +38767,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/pg-1.0.0/spec" />
@@ -41410,6 +41462,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.12.0/lib" />
@@ -41417,6 +41470,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/puma-3.12.0/lib" />
@@ -41586,6 +41640,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/puma-3.8.2/lib" />
@@ -41595,6 +41650,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/puma-3.8.2/gemfiles" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/puma-3.8.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/puma-3.8.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/puma-3.8.2/lib" />
@@ -45025,6 +45081,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/raindrops-0.19.0/test" />
@@ -45032,6 +45089,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/raindrops-0.19.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/raindrops/0.19.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/raindrops-0.19.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/raindrops-0.19.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/raindrops-0.19.0/test" />
@@ -46140,11 +46198,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/rb-fsevent-0.10.3/lib" />
@@ -46159,11 +46219,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/rb-fsevent-0.10.3/lib" />
@@ -47634,12 +47696,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/redcarpet/3.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/redcarpet-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/redcarpet-3.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/redcarpet-3.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/redcarpet-3.0.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/redcarpet/3.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/redcarpet-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/redcarpet-3.0.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/redcarpet-3.0.0/lib" />
@@ -53440,11 +53504,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sassc-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sassc-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sassc-1.12.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/sassc/1.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sassc-1.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sassc-1.12.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/sassc-1.12.1/test" />
@@ -60049,11 +60115,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/therubyracer-0.12.3/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/therubyracer-0.12.3/spec" />
@@ -60067,11 +60135,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/therubyracer-0.12.3/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/therubyracer-0.12.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/therubyracer-0.12.3/spec" />
@@ -63177,6 +63247,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/unicorn-5.4.1/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/unicorn-5.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/unicorn-5.4.1/ext" />
@@ -63188,6 +63259,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/unicorn-5.4.1/Documentation" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/unicorn/5.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/unicorn-5.4.1/t" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/unicorn-5.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/unicorn-5.4.1/ext" />
@@ -64409,11 +64481,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/websocket-driver-0.6.5/examples" />
@@ -64428,11 +64502,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@messenger/gems/websocket-driver-0.6.5/examples" />
