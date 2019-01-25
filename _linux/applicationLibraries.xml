@@ -4572,6 +4572,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/aws-eventstream-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.131.0, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/aws-partitions-1.131.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/aws-partitions-1.131.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.133.0, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4612,6 +4623,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/aws-sdk-core-2.11.44/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails500/gems/aws-sdk-core-2.11.44/apis" />
       </excluded>
+    </library>
+    <library name="aws-sdk-core (v3.45.0, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/aws-sdk-core-3.45.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/aws-sdk-core-3.45.0/lib" />
+      </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.46.0, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
       <properties>
@@ -25711,6 +25733,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/image_optimizer-1.7.1/checksum" />
       </excluded>
     </library>
+    <library name="image_processing (v1.7.1, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/image_processing-1.7.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/image_processing-1.7.1/lib" />
+      </SOURCES>
+    </library>
     <library name="inherited_resources (v1.8.0, RVM: ruby-2.5.1 [rails500]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -32308,6 +32341,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@obruchalka/gems/mini_magick-4.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_magick (v4.9.2, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mini_magick-4.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/mini_magick-4.9.2/lib" />
       </SOURCES>
     </library>
     <library name="mini_mime (v0.1.4, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
@@ -51375,6 +51419,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rubocop-rspec-1.31.0/config" />
       </excluded>
     </library>
+    <library name="ruby-mp3info (v0.8.10, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-mp3info-0.8.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-mp3info-0.8.10/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-mp3info-0.8.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-mp3info-0.8.10/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-mp3info-0.8.10/test" />
+      </excluded>
+    </library>
     <library name="ruby-progressbar (v1.10.0, RVM: ruby-2.4.2 [obruchalka]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -51553,6 +51613,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-shout-2.2.2/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-vips (v2.0.13, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-vips-2.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-vips-2.0.13/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-vips-2.0.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-vips-2.0.13/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/ruby-vips-2.0.13/example" />
       </excluded>
     </library>
     <library name="ruby_dep (v1.5.0, RVM: ruby-2.3.3) [gem]" type="rubylib">
