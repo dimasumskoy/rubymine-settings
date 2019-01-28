@@ -2537,6 +2537,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.4@voice-designer/gems/acts_as_list-0.9.15/gemfiles" />
       </excluded>
     </library>
+    <library name="acts_as_list (v0.9.17, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/acts_as_list-0.9.17/gemfiles" />
+      </excluded>
+    </library>
     <library name="addressable (v2.5.1, RVM: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
