@@ -11146,6 +11146,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/chronic-0.10.2/test" />
       </excluded>
     </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/chronic-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/chronic-0.10.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/chronic-0.10.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/chronic-0.10.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/chronic-0.10.2/test" />
+      </excluded>
+    </library>
     <library name="chunky_png (v1.3.10, RVM: ruby-2.4.2 [fotocloud]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -65062,6 +65078,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/whenever-0.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/whenever-0.10.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@fotocloud/gems/whenever-0.10.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="whenever (v0.10.0, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/whenever-0.10.0/gemfiles" />
       </excluded>
     </library>
     <library name="whenever (v0.9.7, RVM: ruby-2.3.3) [gem]" type="rubylib">
