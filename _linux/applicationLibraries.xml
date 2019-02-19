@@ -14247,6 +14247,39 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/deep_cloneable-2.3.1/gemfiles" />
       </excluded>
     </library>
+    <library name="delayed_job (v4.1.5, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/recipes" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job-4.1.5/recipes" />
+      </excluded>
+    </library>
+    <library name="delayed_job_active_record (v4.1.3, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job_active_record-4.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/delayed_job_active_record-4.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="descendants_tracker (v0.0.4, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
