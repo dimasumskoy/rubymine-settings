@@ -9660,6 +9660,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-starter-kit/gems/capistrano-yarn-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-yarn (v2.0.2, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/capistrano-yarn-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/capistrano-yarn-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capistrano3-unicorn (v0.2.1, RVM: ruby-2.3.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -43228,6 +43239,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-starter-kit/gems/rack-proxy-0.6.5/test" />
       </excluded>
     </library>
+    <library name="rack-proxy (v0.6.5, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-proxy-0.6.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-proxy-0.6.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/rack-proxy-0.6.5/test" />
+      </excluded>
+    </library>
     <library name="rack-rewrite (v1.5.1, RVM: ruby-2.5.1 [rails500]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -59377,6 +59404,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@robarin/gems/summernote-rails-0.8.10.0/vendor" />
       </SOURCES>
     </library>
+    <library name="switchery-rails (v0.8.1.1, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/switchery-rails-0.8.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/switchery-rails-0.8.1.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/switchery-rails-0.8.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/switchery-rails-0.8.1.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="symmetric-encryption (v4.0.1, RVM: ruby-2.5.0 [messenger]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -64406,6 +64446,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@rails-starter-kit/gems/webpacker-3.5.5/gemfiles" />
       </excluded>
     </library>
+    <library name="webpacker (v3.5.5, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-3.5.5/gemfiles" />
+      </excluded>
+    </library>
     <library name="webpacker-react (v0.3.2, RVM: ruby-2.4.2 [direct_delivery]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -64426,6 +64491,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/webpacker-react-0.3.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/webpacker-react-0.3.2/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2@direct_delivery/gems/webpacker-react-0.3.2/javascript" />
+      </excluded>
+    </library>
+    <library name="webpacker-react (v0.3.2, RVM: ruby-2.5.1 [sound-service]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/javascript" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/javascript" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@sound-service/gems/webpacker-react-0.3.2/javascript" />
       </excluded>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.0 [global]) [gem]">
