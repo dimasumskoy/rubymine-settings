@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="lrc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
